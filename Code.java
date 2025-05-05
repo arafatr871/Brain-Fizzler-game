@@ -81,7 +81,7 @@ public class BrainFizzlerGame2 {
     public void startGame() {
         frame = new JFrame("Brain Fizzler 2.0");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(700, 500);
+        frame.setSize(1920 , 1040);
         frame.getContentPane().setBackground(new Color(230, 30, 110));
         frame.setLayout(new BorderLayout());
 
